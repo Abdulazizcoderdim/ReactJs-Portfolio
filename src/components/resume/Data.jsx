@@ -5,7 +5,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2020 - present",
         title: "Middle Degree",
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi.'
+        desc: 'I have done more than 15 frontend projects.'
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2021 - 2024",
         title: "Middle Degree",
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi.'
+        desc: 'I have done several projects in ReactJs and also online stores'
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2020 - 2024",
         title: "Strong Degree",
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi.'
+        desc: 'I have done several projects in Backend NodeJs.'
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2020-present",
         title: "Front-End Developer",
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi.'
+        desc: 'I have done more than 15 frontend projects.'
     },
     {
         id: 5,
@@ -37,15 +37,15 @@ const Data = [
         icon: "icon-briefcase",
         year: "2021-2024",
         title: "Reactjs Developer",
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi.'
+        desc: 'I have done several projects in ReactJs and also online stores'
     },
     {
         id: 6,
         category: "experience",
         icon: "icon-briefcase",
         year: "2020-2024",
-        title: "Grafic Design",
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi.'
+        title: "Backend Developer",
+        desc: 'I have done several projects in Backend NodeJs.'
     },
 ];
 
