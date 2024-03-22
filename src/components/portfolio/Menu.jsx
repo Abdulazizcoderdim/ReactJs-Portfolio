@@ -5,6 +5,9 @@ import Work4 from '../../assests/porfolio.png'
 import Work5 from '../../assests/pomidoro .png'
 import Work6 from '../../assests/Calculator.png'
 import Work7 from '../../assests/Resume.png'
+import Work8 from '../../assests/taskfrontend19.netlify.app.png'
+import Work9 from '../../assests/TASK.png'
+import Work10 from '../../assests/Uzum projects.png'
 
 const Menu = [
     {
@@ -16,17 +19,17 @@ const Menu = [
     },
     {
         id: 2,
-        image: Work2,
-        title: "Chess Game",
-        category: "Art" ,
-        link: "https://chessgame1.netlify.app"
+        image: Work8,
+        title: "Online Shop",
+        category: "Design",
+        link: "https://taskfrontend19.netlify.app"
     },
     {
         id: 3,
-        image: Work3,
-        title: "Age Calculator",
-        category: "Branding",
-        link: "https://agecalculatorjs12.netlify.app" 
+        image: Work9,
+        title: "Vex Products",
+        category: "Design",
+        link: ""
     },
     {
         id: 4,
@@ -37,10 +40,10 @@ const Menu = [
     },
     {
         id: 5,
-        image: Work5,
-        title: "Pomidoro Timer",
-        category: "Creative",
-        link: "https://pomidorotimer11.netlify.app"  
+        image: Work10,
+        title: "Uzum market Clone",
+        category: "Design",
+        link: "uzum.com"
     },
     {
         id: 6,
@@ -55,8 +58,28 @@ const Menu = [
         title: "Resume",
         category: "Resume",
         link: "https://t.me/+xiaKJ_hOsp44ZGJi"
+    },
+    {
+        id: 8,
+        image: Work2,
+        title: "Chess Game",
+        category: "Art" ,
+        link: "https://chessgame1.netlify.app"
+    },
+    {
+        id: 9,
+        image: Work3,
+        title: "Age Calculator",
+        category: "Branding",
+        link: "https://agecalculatorjs12.netlify.app" 
+    },
+    {
+        id: 10,
+        image: Work5,
+        title: "Pomidoro Timer",
+        category: "Creative",
+        link: "https://pomidorotimer11.netlify.app"  
     }
-    
 ];
 
 export default Menu
