@@ -49,14 +49,7 @@
     line-height: 30px;
 }
 
-.services__card:nth-child(2) .services__title{
-    color: var(--title-color);  
-}
 
-.services__card:nth-child(2) .services__description{
-    color: var(--texxt-color);
-    
-}
 
 
 @media screen and (max-width: 1024px) {

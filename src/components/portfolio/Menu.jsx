@@ -8,76 +8,85 @@ import Work7 from '../../assests/Resume.png'
 import Work8 from '../../assests/taskfrontend19.netlify.app.png'
 import Work9 from '../../assests/TASK.png'
 import Work10 from '../../assests/Uzum projects.png'
+import Work11 from '../../assests/prudplus.png'
 
 const Menu = [
     {
         id: 1,
-        image: Work1,
-        title: "ReactJS shopping shoes",
-        category: "Design",
-        link: "https://reactjsshopping.netlify.app"
+        image: Work11,
+        title: "Prid Plus",
+        category: "E-Commerce",
+        link: "https://prudplus.netlify.app"
     },
     {
         id: 2,
+        image: Work1,
+        title: "ReactJS shopping shoes",
+        category: "E-Commerce",
+        link: "https://taskfrontendcoder.netlify.app"
+    },
+    
+    {
+        id: 3,
         image: Work8,
         title: "Online Shop",
-        category: "Design",
+        category: "E-Commerce",
         link: "https://taskfrontend19.netlify.app"
     },
     {
-        id: 3,
+        id: 4,
         image: Work9,
         title: "Vex Products",
-        category: "Design",
+        category: "E-Commerce",
         link: ""
     },
     {
-        id: 4,
+        id: 5,
         image: Work4,
         title: "Portfolio WebSite",
-        category: "Design",
+        category: "Branding",
         link: "https://abdulazizrustamov.netlify.app" 
     },
     {
-        id: 5,
+        id: 6,
         image: Work10,
         title: "Uzum market Clone",
-        category: "Design",
+        category: "Clone",
         link: "uzum.com"
     },
     {
-        id: 6,
+        id: 7,
         image: Work6,
         title: "Calculator",
-        category: "Art",
+        category: "Small Projects",
         link: "https://calculator111.netlify.app"  
     },
     {
-        id: 7,
+        id: 8,
         image: Work7,
         title: "Resume",
         category: "Resume",
         link: "https://t.me/+xiaKJ_hOsp44ZGJi"
     },
     {
-        id: 8,
+        id: 9,
         image: Work2,
         title: "Chess Game",
-        category: "Art" ,
+        category: "Small Projects" ,
         link: "https://chessgame1.netlify.app"
     },
     {
-        id: 9,
+        id: 10,
         image: Work3,
         title: "Age Calculator",
-        category: "Branding",
+        category: "Small Projects",
         link: "https://agecalculatorjs12.netlify.app" 
     },
     {
-        id: 10,
+        id: 11,
         image: Work5,
         title: "Pomidoro Timer",
-        category: "Creative",
+        category: "Small Projects",
         link: "https://pomidorotimer11.netlify.app"  
     }
 ];

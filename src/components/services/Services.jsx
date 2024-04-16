@@ -7,20 +7,20 @@ const data = [
     {
         id: 1,
         image: Image1,
-        title:"Grafic Design",
+        title:"Web developer",
         description: 'My aim is to bring across your message and identiful in the most creative way. I have acquired the skills and knowledge necessary to make your project a success. ',
     },
     {
         id: 2,
         image: Image2,
-        title:"Web developer",
+        title:"E-Commerce website",
         description: 'My aim is to bring across your message and identiful in the most creative way. I have acquired the skills and knowledge necessary to make your project a success. ',
     },
     
     {
         id: 3,
         image: Image3,
-        title:"ReactJs",
+        title:"Grafic Design",
         description: 'My aim is to bring across your message and identiful in the most creative way. I have acquired the skills and knowledge necessary to make your project a success. ',
     },
 ];

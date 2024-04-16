@@ -55,7 +55,7 @@ const About = () => {
 
             </div>
 
-            <AboutBox/>
+            {/* <AboutBox/> */}
         </section>
     )
 }
