@@ -14,9 +14,9 @@ const App = () => {
       <main className='main'>
          <Home/>
          <About/>
+         <Portfolio/>
          <Services/>
          {/* <Resume/> */}
-         <Portfolio/>
          {/* <Pricing/> */}
          {/* <Blog/> */}
          <Contact/> 
