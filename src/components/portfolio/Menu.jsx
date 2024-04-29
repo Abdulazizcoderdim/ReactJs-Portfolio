@@ -17,7 +17,7 @@ const Menu = [
         image: Work11,
         title: "Prid Plus",
         category: "E-Commerce",
-        link: "https://prudplus.netlify.app"
+        link: "https://prudplus.ru"
     },
     {
         id: 2,
