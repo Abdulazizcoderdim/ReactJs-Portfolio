@@ -19,7 +19,7 @@ const HeaderSocials = ()=> {
                 <i className="icon-social-facebook"></i>
             </a>
 
-            <a href="https://www.linkedin.com" className="home__social-link" target='_blank'>
+            <a href="https://www.linkedin.com/in/abdulaziz-rustamov-a3b788299/" className="home__social-link" target='_blank'>
                 <i className="icon-social-linkedin"></i>
             </a>
         </div>
