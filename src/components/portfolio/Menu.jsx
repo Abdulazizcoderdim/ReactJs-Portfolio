@@ -30,13 +30,6 @@ const Menu = [
         link: "https://filterproduct.vercel.app/"
     },
     {
-        id: 2,
-        image: Work15,
-        title: "Filter Product",
-        category: "E-Commerce",
-        link: "https://filterproduct.vercel.app/"
-    },
-    {
         id: 3,
         image: Work12,
         title: "Eco Dental",
