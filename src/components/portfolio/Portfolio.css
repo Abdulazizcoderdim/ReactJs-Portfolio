@@ -98,8 +98,26 @@
     transition: .3s;
     opacity: 0;
 }
+.work__button2{
+    color: #fff;
+    position: absolute;
+    bottom: 1.5rem;
+    left: 4.5rem;
+    font-size: var(--h3-font-size);
+    display: block;
+    background-color: #ffd15c;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    transition: .3s;
+    opacity: 0;
+}
 
-.work__card:hover .work__button{
+.work__card:hover .work__button, 
+.work__card:hover .work__button2{
     opacity: 1;
 }
 
@@ -136,3 +154,4 @@
         grid-template-columns: 1fr;
     }
 }
+
