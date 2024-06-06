@@ -15,6 +15,7 @@ import Work14 from '../../assests/BookShelf.png'
 import Work15 from '../../assests/FilterPro.png'
 import Work16 from '../../assests/CASE2.png'
 import Work17 from '../../assests/TaskNew.png'
+import Work18 from '../../assests/Sumz.png'
 
 const Menu = [
     {
@@ -24,6 +25,14 @@ const Menu = [
         category: "E-Commerce",
         link: "https://prudplus.ru",
         link2:"https://github.com/Great-Dev-Uz/Prud-Front/"
+    },
+    {
+        id: 1,
+        image: Work18,
+        title: "Summarize ",
+        category: "Branding",
+        link: "https://sumz19.netlify.app/",
+        link2:"https://github.com/Abdulazizcoderdim/Sumz-AI"
     },
     {
         id: 2,
