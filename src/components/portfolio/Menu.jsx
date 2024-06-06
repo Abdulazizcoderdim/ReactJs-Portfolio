@@ -16,6 +16,10 @@ import Work15 from '../../assests/FilterPro.png'
 import Work16 from '../../assests/CASE2.png'
 import Work17 from '../../assests/TaskNew.png'
 import Work18 from '../../assests/Sumz.png'
+import Work19 from '../../assests/domiktut.png'
+import Work20 from '../../assests/epizodk6.png'
+import Work21 from '../../assests/istom.png'
+
 
 const Menu = [
     {
@@ -49,6 +53,30 @@ const Menu = [
         category: "E-Commerce",
         link: "https://casecobra19.vercel.app/",
         link2:"https://github.com/Abdulazizcoderdim/E-Commerce-casecobra"
+    },
+    {
+        id: 2,
+        image: Work19,
+        title: "Domiktut",
+        category: "E-Commerce",
+        link: "https://domiktut.ru/",
+        link2:""
+    },
+    {
+        id: 2,
+        image: Work20,
+        title: "Epizodk",
+        category: "E-Commerce",
+        link: "https://www.epizodk6.beget.tech/",
+        link2:""
+    },
+    {
+        id: 2,
+        image: Work21,
+        title: "Istom Shop",
+        category: "E-Commerce",
+        link: "https://istom-shop.ru/",
+        link2:""
     },
     {
         id: 3,
@@ -136,7 +164,7 @@ const Menu = [
         image: Work7,
         title: "Resume",
         category: "Resume",
-        link: "https://t.me/+xiaKJ_hOsp44ZGJi",
+        link: "https://drive.google.com/file/d/1E-zG6G854tFlr8wmvKuGD-fvcNtAqjdM/view",
         link2:""
     },
     {
