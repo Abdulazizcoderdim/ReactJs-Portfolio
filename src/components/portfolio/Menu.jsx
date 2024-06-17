@@ -19,6 +19,7 @@ import Work18 from '../../assests/Sumz.png'
 import Work19 from '../../assests/domiktut.png'
 import Work20 from '../../assests/epizodk6.png'
 import Work21 from '../../assests/istom.png'
+import Work22 from '../../assests/Tank.png'
 
 const Menu = [
   {
@@ -93,6 +94,14 @@ const Menu = [
     category: 'E-Commerce',
     link: 'https://medicene.vercel.app',
     link2: 'https://github.com/Abdulazizcoderdim/Medicene',
+  },
+  {
+    id: 4,
+    image: Work22,
+    title: 'АВТОРУСЬ TANK',
+    category: 'Branding',
+    link: 'https://tank19.vercel.app/',
+    link2: 'https://github.com/Abdulazizcoderdim/-TANK',
   },
   {
     id: 5,
