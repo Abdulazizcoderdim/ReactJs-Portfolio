@@ -6,10 +6,10 @@ const Contact = () => {
     event.preventDefault()
     const formData = new FormData(event.target)
 
-    formData.append('access_key', process.env.REACT_APP_API_KEY)
+    formData.append('access_key', process.env.API_KEYNI_QIDIROPSANMI)
 
 
-    
+
 
     const object = Object.fromEntries(formData)
     const json = JSON.stringify(object)
