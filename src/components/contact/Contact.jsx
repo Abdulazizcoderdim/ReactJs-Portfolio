@@ -1,35 +1,34 @@
 import './Contact.css'
-import Swal from "sweetalert2"
+import Swal from 'sweetalert2'
 
 const Contact = () => {
-    const onSubmit = async (event) => {
-        event.preventDefault();
-        const formData = new FormData(event.target);
-    
-        formData.append("access_key", process.env.API);
-    
-        const object = Object.fromEntries(formData);
-        const json = JSON.stringify(object);
-    
-        const res = await fetch("https://api.web3forms.com/submit", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Accept: "application/json"
-          },
-          body: json
-        }).then((res) => res.json());
-    
-        if (res.success) {
-          Swal.fire({
-              title: "Success!",
-              text: "Thank you for your message. I'll get back to you shortly.",
-              icon: "success",
-              confirmButtonText: "Ok"
-          })
-          
-        }
-      };
+  const onSubmit = async (event) => {
+    event.preventDefault()
+    const formData = new FormData(event.target)
+
+    formData.append('access_key', process.env.REACT_APP_API_KEY)
+
+    const object = Object.fromEntries(formData)
+    const json = JSON.stringify(object)
+
+    const res = await fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
+      body: json,
+    }).then((res) => res.json())
+
+    if (res.success) {
+      Swal.fire({
+        title: 'Success!',
+        text: "Thank you for your message. I'll get back to you shortly.",
+        icon: 'success',
+        confirmButtonText: 'Ok',
+      })
+    }
+  }
   return (
     <section className="contact container section" id="contact">
       <h2 className="section__title">Get In Touch</h2>
@@ -49,7 +48,7 @@ const Contact = () => {
                 type="text"
                 className="contact__form-input"
                 placeholder="Your Name"
-                name='name'
+                name="name"
                 required
               />
             </div>
@@ -59,13 +58,11 @@ const Contact = () => {
                 type="email"
                 className="contact__form-input"
                 placeholder="E-mail"
-                name='email'
+                name="email"
                 required
               />
             </div>
           </div>
-
-          
 
           <div className="contact__form-div contact__form-area">
             <textarea

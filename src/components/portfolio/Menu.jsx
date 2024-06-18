@@ -39,14 +39,14 @@ const Menu = [
     link2: 'https://github.com/Abdulazizcoderdim/Sumz-AI',
   },
 
-  {
-    id: 2,
-    image: Work16,
-    title: 'Case Cobra',
-    category: 'E-Commerce',
-    link: 'https://casecobra19.vercel.app/',
-    link2: 'https://github.com/Abdulazizcoderdim/E-Commerce-casecobra',
-  },
+  // {
+  //   id: 2,
+  //   image: Work16,
+  //   title: 'Case Cobra',
+  //   category: 'E-Commerce',
+  //   link: 'https://casecobra19.vercel.app/',
+  //   link2: 'https://github.com/Abdulazizcoderdim/E-Commerce-casecobra',
+  // },
   {
     id: 2,
     image: Work19,
@@ -128,14 +128,14 @@ const Menu = [
     link: 'https://book-shelf19.vercel.app/',
     link2: 'https://github.com/Abdulazizcoderdim/BookShelf',
   },
-  {
-    id: 8,
-    image: Work9,
-    title: 'Vex Products',
-    category: 'E-Commerce',
-    link: '',
-    link2: 'https://github.com/Abdulazizcoderdim/task-project-vex',
-  },
+  // {
+  //   id: 8,
+  //   image: Work9,
+  //   title: 'Vex Products',
+  //   category: 'E-Commerce',
+  //   link: '',
+  //   link2: 'https://github.com/Abdulazizcoderdim/task-project-vex',
+  // },
   {
     id: 9,
     image: Work13,
@@ -152,14 +152,14 @@ const Menu = [
     link: 'https://abdulazizrustamov.netlify.app',
     link2: '',
   },
-  {
-    id: 11,
-    image: Work10,
-    title: 'Uzum market Clone',
-    category: 'Clone',
-    link: 'https://uzum-shop-demo.vercel.app/',
-    link2: 'https://github.com/Abdulazizcoderdim/Uzum-shop-demo',
-  },
+  // {
+  //   id: 11,
+  //   image: Work10,
+  //   title: 'Uzum market Clone',
+  //   category: 'Clone',
+  //   link: 'https://uzum-shop-demo.vercel.app/',
+  //   link2: 'https://github.com/Abdulazizcoderdim/Uzum-shop-demo',
+  // },
   {
     id: 12,
     image: Work6,
