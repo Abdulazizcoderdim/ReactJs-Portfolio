@@ -169,14 +169,6 @@ const Menu = [
     link2: '',
   },
   {
-    id: 13,
-    image: Work7,
-    title: 'Resume',
-    category: 'Resume',
-    link: 'https://drive.google.com/file/d/1E-zG6G854tFlr8wmvKuGD-fvcNtAqjdM/view',
-    link2: '',
-  },
-  {
     id: 14,
     image: Work2,
     title: 'Chess Game',
