@@ -22,7 +22,6 @@ const Portfolio = () => {
                 <span className="work__item" onClick={()=> filterItem("Small Projects")}>Small Projects</span>
                 <span className="work__item" onClick={()=> filterItem("Clone")}>Clone</span>
                 <span className="work__item" onClick={()=> filterItem("Branding")}>Branding</span>
-                <span className="work__item" onClick={()=> filterItem("Resume")} >Resume</span>
             </div>
 
             <div className="work__container grid">
