@@ -16,9 +16,9 @@ const About = () => {
               Uzbekistan. I have rich experience in web site design and building
               and customization, also I am good at ReactJS.
             </p>
-            {/* <a href="/ResumeAb.pdf" download className="btn">
+            <a href="/ResumeAb.pdf" download className="btn">
               Download CV
-            </a> */}
+            </a>
           </div>
 
           <div className="about__skills grid">
