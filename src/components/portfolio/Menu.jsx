@@ -55,14 +55,14 @@ const Menu = [
     link: 'https://domiktut.ru/',
     link2: '',
   },
-  {
-    id: 2,
-    image: Work20,
-    title: 'Epizodk',
-    category: 'E-Commerce',
-    link: 'https://www.epizodk6.beget.tech/',
-    link2: '',
-  },
+  // {
+  //   id: 2,
+  //   image: Work20,
+  //   title: 'Epizodk',
+  //   category: 'E-Commerce',
+  //   link: 'https://www.epizodk6.beget.tech/',
+  //   link2: '',
+  // },
   {
     id: 2,
     image: Work21,
