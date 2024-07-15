@@ -18,7 +18,7 @@ import Work17 from '../../assests/TaskNew.png'
 import Work18 from '../../assests/Sumz.png'
 import Work19 from '../../assests/domiktut.png'
 import Work20 from '../../assests/epizodk6.png'
-import Work21 from '../../assests/istom.png'
+import Work21 from '../../assests/ud.png'
 import Work22 from '../../assests/Tank.png'
 
 const Menu = [
@@ -63,13 +63,21 @@ const Menu = [
   //   link: 'https://www.epizodk6.beget.tech/',
   //   link2: '',
   // },
+   {
+    id: 2,
+    image: Work20,
+    title: 'Udevs',
+    category: 'E-Commerce',
+    link: 'https://www.epizodk6.beget.tech/',
+    link2: '',
+  },
   {
     id: 2,
     image: Work21,
     title: 'Istom Shop',
-    category: 'E-Commerce',
-    link: 'https://istom-shop.ru/',
-    link2: '',
+    category: 'Branding',
+    link: 'https://udevsio-abdulazizs-projects-07cd96ef.vercel.app/',
+    link2: 'https://github.com/Abdulazizcoderdim/Udevs',
   },
   {
     id: 2,
