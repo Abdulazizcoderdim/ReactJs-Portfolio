@@ -22,7 +22,7 @@ const Menu = [
   {
     id: 1,
     image: Work11,
-    title: 'Prid Plus',
+    title: 'Prud Plus',
     category: 'E-Commerce',
     link: 'https://prudplus.ru',
     link2: 'https://github.com/Great-Dev-Uz/Prud-Front/',
@@ -71,15 +71,15 @@ const Menu = [
   {
     id: 2,
     image: Work20,
-    title: 'Udevs',
+    title: 'Istom Shop',
     category: 'E-Commerce',
-    link: 'https://www.epizodk6.beget.tech/',
+    link: 'https://istom-shop.ru/',
     link2: '',
   },
   {
     id: 2,
     image: Work21,
-    title: 'Istom Shop',
+    title: 'Udevs',
     category: 'Branding',
     link: 'https://udevsio-abdulazizs-projects-07cd96ef.vercel.app/',
     link2: 'https://github.com/Abdulazizcoderdim/Udevs',
