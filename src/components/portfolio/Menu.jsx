@@ -1,25 +1,22 @@
-import Work1 from '../../assests/shoping.png'
-import Work2 from '../../assests/chees.png'
-import Work3 from '../../assests/age.png'
-import Work4 from '../../assests/porfolio.png'
-import Work5 from '../../assests/pomidoro .png'
-import Work6 from '../../assests/Calculator.png'
-import Work7 from '../../assests/Resume.png'
-import Work8 from '../../assests/taskfrontend19.netlify.app.png'
-import Work9 from '../../assests/TASK.png'
-import Work10 from '../../assests/Uzum projects.png'
-import Work11 from '../../assests/prudplus.png'
-import Work12 from '../../assests/Theeth.png'
-import Work13 from '../../assests/Metsenat.png'
 import Work14 from '../../assests/BookShelf.png'
+import Work6 from '../../assests/Calculator.png'
 import Work15 from '../../assests/FilterPro.png'
-import Work16 from '../../assests/CASE2.png'
-import Work17 from '../../assests/TaskNew.png'
+import Work13 from '../../assests/Metsenat.png'
 import Work18 from '../../assests/Sumz.png'
+import Work22 from '../../assests/Tank.png'
+import Work17 from '../../assests/TaskNew.png'
+import Work12 from '../../assests/Theeth.png'
+import Work3 from '../../assests/age.png'
+import Work2 from '../../assests/chees.png'
 import Work19 from '../../assests/domiktut.png'
 import Work20 from '../../assests/epizodk6.png'
+import Work5 from '../../assests/pomidoro .png'
+import Work4 from '../../assests/porfolio.png'
+import Work11 from '../../assests/prudplus.png'
+import Work1 from '../../assests/shoping.png'
+import Work8 from '../../assests/taskfrontend19.netlify.app.png'
 import Work21 from '../../assests/ud.png'
-import Work22 from '../../assests/Tank.png'
+import Work23 from '../../assests/DRIVE.JPG'
 
 const Menu = [
   {
@@ -29,6 +26,14 @@ const Menu = [
     category: 'E-Commerce',
     link: 'https://prudplus.ru',
     link2: 'https://github.com/Great-Dev-Uz/Prud-Front/',
+  },
+  {
+    id: 1,
+    image: Work23,
+    title: 'Google Drive',
+    category: 'Clone',
+    link: 'https://googledrive19.netlify.app/',
+    link2: 'https://github.com/Abdulazizcoderdim/Google-Drive-Clone',
   },
   {
     id: 1,
@@ -63,7 +68,7 @@ const Menu = [
   //   link: 'https://www.epizodk6.beget.tech/',
   //   link2: '',
   // },
-   {
+  {
     id: 2,
     image: Work20,
     title: 'Udevs',
